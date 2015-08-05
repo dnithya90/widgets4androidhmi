@@ -1,0 +1,1 @@
+This project will, if there are enough contributors, contain a set of widgets for android that can be used to build Android based HMI's. My angle is industrial automation but database monitoring is another field where the widgets can be used for.
